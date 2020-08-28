@@ -1,0 +1,11 @@
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\bin\Debug\netcoreapp2.2\ConsoleApp_IoC.deps.json
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\bin\Debug\netcoreapp2.2\ConsoleApp_IoC.runtimeconfig.json
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\bin\Debug\netcoreapp2.2\ConsoleApp_IoC.runtimeconfig.dev.json
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\bin\Debug\netcoreapp2.2\ConsoleApp_IoC.dll
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.csprojAssemblyReference.cache
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.csproj.CoreCompileInputs.cache
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.AssemblyInfoInputs.cache
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.AssemblyInfo.cs
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\bin\Debug\netcoreapp2.2\ConsoleApp_IoC.pdb
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.dll
+C:\Users\laszl\Documents\Programozas\greenfox\ConsoleApp_IoC\obj\Debug\netcoreapp2.2\ConsoleApp_IoC.pdb
